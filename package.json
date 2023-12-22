@@ -1,0 +1,13 @@
+{
+  "name": "playapp-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run dev"
+  },
+  "author": "Prashant K Jha",
+  "license": "ISC"
+}
